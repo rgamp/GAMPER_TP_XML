@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<records>
+    <employee>
+        <name>Eren</name>
+        <surname>Jaeger</surname>
+        <salary>50000</salary>
+    </employee>
+
+    <employee>
+        <name>Levi</name>
+        <surname>Ackerman</surname>
+        <salary>60000</salary>
+    </employee>
+
+    <employee>
+        <name>Ye</name>
+        <surname>Xiu</surname>
+        <salary>70000</salary>
+    </employee>
+
+    <employee>
+        <name>Lord</name>
+        <surname>Grim</surname>
+        <salary>70000</salary>
+    </employee>
+
+    <employee>
+        <name>Hanji</name>
+        <surname>Zoe</surname>
+        <salary>60000</salary>
+    </employee>
+
+    <employee>
+        <name>Ye</name>
+        <surname>Qiu</surname>
+        <salary>70000</salary>
+    </employee>
+
+</records>
